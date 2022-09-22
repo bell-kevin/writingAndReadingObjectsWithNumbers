@@ -1,5 +1,5 @@
 /** ****************************************************************************
- * Ch16writingAndReadingObjects.java
+ * writingAndReadingObjectsWithNumbers.java
  * Kevin Bell
  *
  * The program writes objects to a file, and reads objects from a file.
@@ -52,4 +52,4 @@ public class writingAndReadingObjectsWithNumbers {
             System.out.println(e.getMessage());
         } // end try/catch, and close fileOut automatically
     } // end main method
-} // end Ch16writingAndReadingObjects class
+} // end writingAndReadingObjectsWithNumbers class
