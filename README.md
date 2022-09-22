@@ -1,6 +1,8 @@
 # writingAndReadingObjectsWithNumbers
 writing And Reading Objects With Numbers as objects. just practice
 
+![output](https://github.com/bell-kevin/writingAndReadingObjectsWithNumbers/blob/main/saveMePlease.PNG)
+
 == We're Using GitHub Under Protest ==
 
 This project is currently hosted on GitHub.  This is not ideal; GitHub is a
