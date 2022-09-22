@@ -31,11 +31,11 @@ public class NumberList implements Serializable {
 
     public void removeScore(int index) {
         scores.remove(index);
-    } // end removeStudent method
+    } // end removeScore method
 //******************************************************************************
 
-    public void addScore(double name) {
-        scores.add(name);
-    } // end removeStudent method
+    public void addScore(double score) {
+        scores.add(score);
+    } // end addScore method
 //******************************************************************************
-} // end StudentList class
+} // end NumberList class
